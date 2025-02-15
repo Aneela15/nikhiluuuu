@@ -4,4 +4,5 @@ if __name__=="__main__":
         print(j)
     print("This is the end of the main module")
     print("Hello")
+    i=2
         
